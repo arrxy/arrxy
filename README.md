@@ -1,4 +1,4 @@
-### Hi, I'm Aritro 👋
+### Hi, I'm Aritro 
 
 Systems Engineer focused on **databases, distributed systems, and high-performance backend infrastructure**.
 
