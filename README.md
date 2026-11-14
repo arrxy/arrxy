@@ -1,34 +1,8 @@
-```text
-                                           @%$[{[{&}<&&&8{8&@
-                                        $$$#@%]@}>*]<*|abd&[c35· ·
-Hi, I'm Aritro.                       %#}#]|{{[]><A*>·e[·9634411d4  5 · ·B
-I build and break things.            ##@]{}·@}>·>>$>9889|75220c101f       ··
-                                    %[·@3]]#*><<*<$f98fbe*55014c40,9       8
-systems engineer                   0]$<***}]{{|@$@%]}[{<*>c601:,2.:,7    ··
-MS CS, NYU                     · · |@<***&#*abecc<>e626245e1::,,::,,6 · 9
-                             ·7    |@<9ba&&a9cc9c*>6721000e:,:..`3:ab
-databases                   ·       ]aa<{{>>d9733cd101001,4,1031,4:0
-distributed systems         D·       >635dd364710f4111:,,:6`.`.`:11
-backend infra                 ·6 · · n<640<01010176,::,..:0``.,:2bt
-                                     u7 368e01:,:01``.`..0,:5206  s
-                                           62,:,,:6,:,::01,0>     &
-                                      f                  r
-                                      ·     T
-                                      >     <
-                                      8     l
-                                      u     p
-                                      <     m
-```
+<img src="https://www.aritro.me/github/card.svg" width="100%" alt="arrxy@github. Aritro Roy: systems engineer, MS CS at New York University. Focus: databases, distributed systems, backend infrastructure. Languages: Rust, C++, TypeScript, Python. Now: learned query pruning for SPLADE, on Tantivy. Shipped: pollio and chaintable on crates.io.">
 
 Systems engineer focused on **databases, distributed systems, and high-performance backend infrastructure**.
 
 MS in Computer Science at **New York University** · previously Senior Backend Engineer building event-driven platforms for 13M+ users. I like building systems from the primitives up (event loops, hash tables, wire protocols) and composing them into real servers.
-
-```text
-now    learned query pruning for SPLADE, on Tantivy
-prev   perf suite for processing_render · Criterion + CodSpeed
-ships  pollio · chaintable on crates.io
-```
 
 <table>
   <tr>
