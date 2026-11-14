@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.aritro.me/github/glyph-dark.svg">
-  <img src="https://www.aritro.me/github/glyph-light.svg" width="100%" alt="Hi, I'm Aritro. I build and break things. Systems engineer, MS CS at NYU. A sphere of hex bytes above falling token streams.">
-</picture>
+<img src="https://www.aritro.me/github/glyph-dark.svg" width="100%" alt="Hi, I'm Aritro. I build and break things. Systems engineer, MS CS at NYU. A sphere of hex bytes above falling token streams.">
 
 Systems engineer focused on **databases, distributed systems, and high-performance backend infrastructure**.
 
