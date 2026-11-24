@@ -1,5 +1,3 @@
-<img src="https://www.aritro.me/github/card.svg" width="100%" alt="arrxy@github. Aritro Roy: systems engineer, MS CS at New York University. Focus: databases, distributed systems, backend infrastructure. Languages: Rust, C++, TypeScript, Python. Now: learned query pruning for SPLADE, on Tantivy. Shipped: pollio and chaintable on crates.io.">
-
 Systems engineer focused on **databases, distributed systems, and high-performance backend infrastructure**.
 
 MS in Computer Science at **New York University** · previously Senior Backend Engineer building event-driven platforms for 13M+ users. I like building systems from the primitives up (event loops, hash tables, wire protocols) and composing them into real servers.
