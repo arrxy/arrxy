@@ -7,7 +7,7 @@ MS in Computer Science at **New York University** · previously Senior Backend E
     <td width="25%" valign="top"><h3>&lt;150 ms</h3>p99 latency for an idempotent wallet service, zero double-charges</td>
     <td width="25%" valign="top"><h3>2.66×</h3>over serial PostgreSQL, GPU <code>GROUP BY</code> on 30M TPC-H rows</td>
     <td width="25%" valign="top"><h3>4,000</h3>concurrent chess games on one droplet, zero consistency failures</td>
-    <td width="25%" valign="top"><h3>2</h3>Rust crates published on crates.io</td>
+    <td width="25%" valign="top"><h3>4</h3>Rust crates published on crates.io</td>
   </tr>
 </table>
 
